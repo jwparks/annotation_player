@@ -1,5 +1,7 @@
 # annotation_player
 Video annotation tool for fMRI research
+- QT 5
+- QT Creator 
 
 <img width="843" alt="Screen Shot 2021-02-02 at 4 32 49 PM" src="https://user-images.githubusercontent.com/44862159/106566940-5dd84b80-6574-11eb-8249-d7972fe2c433.png">
 
